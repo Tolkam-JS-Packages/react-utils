@@ -5,15 +5,15 @@
     "types": "src/index.ts",
     "license": "UNLICENSED",
     "peerDependencies": {
-        "react": "^16.14",
-        "react-dom": "^16.14"
+        "react": "^18",
+        "react-dom": "^18"
     },
     "devDependencies": {
         "@types/node": "^14.14.22",
-        "@types/react": "^16",
-        "@types/react-dom": "^16",
-        "react": "^16.14",
-        "react-dom": "^16.14",
-        "tslib": "^2.1.0"
+        "@types/react": "^18",
+        "@types/react-dom": "^18",
+        "react": "^18",
+        "react-dom": "^18",
+        "tslib": "^2.4.0"
     }
 }
